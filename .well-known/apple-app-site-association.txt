@@ -1,0 +1,14 @@
+echo {^
+  "applinks": {^
+    "apps": [],^
+    "details": [^
+      {^
+        "appID": "829GZC7HD8.com.adamvincentwells.onlydeaf",^
+        "paths": ["*"]^
+      }^
+    ]^
+  },^
+  "webcredentials": {^
+    "apps": ["829GZC7HD8.com.adamvincentwells.onlydeaf"]^
+  }^
+} > apple-app-site-association
